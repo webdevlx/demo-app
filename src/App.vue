@@ -60,14 +60,14 @@
         <a href="index.html"><img src="assets/images/logo.svg" alt="Logo" /></a>
       </div>
       <p class="text">Lorem ipsum dolor sit amet adipisicing elit. Sapiente fuga nisi rerum iusto intro.</p>
-      <!-- logotip -->
+      <!-- logo -->
       <div class="sidebar-menu">
         <h5 class="menu-title">Quick Links</h5>
         <ul>
-          <li><a href="javascript:void(0)">About Us</a></li>
-          <li><a href="javascript:void(0)">Our Team</a></li>
-          <li><a href="javascript:void(0)">Latest News</a></li>
-          <li><a href="javascript:void(0)">Contact Us</a></li>
+          <li><a href="javascript:void(0)">Biz haqimizda</a></li>
+          <li><a href="javascript:void(0)">Bizning jamoa</a></li>
+          <li><a href="javascript:void(0)">So'nggi yangiliklar</a></li>
+          <li><a href="javascript:void(0)">Biz bilan aloqa</a></li>
         </ul>
       </div>
       <!-- menu -->
