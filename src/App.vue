@@ -20,17 +20,17 @@
             <div class="collapse navbar-collapse sub-menu-bar" id="navbarNine">
               <ul class="navbar-nav me-auto">
                 <li class="nav-item">
-                  <a class="page-scroll active" href="#hero-area">Home</a>
+                  <a class="page-scroll active" href="#hero-area">Bosh sahifa</a>
                 </li>
                 <li class="nav-item">
-                  <a class="page-scroll" href="#services">Services</a>
+                  <a class="page-scroll" href="#services">Xizmatlar</a>
                 </li>
 
                 <li class="nav-item">
-                  <a class="page-scroll" href="#pricing">Pricing</a>
+                  <a class="page-scroll" href="#pricing">Narxlar</a>
                 </li>
                 <li class="nav-item">
-                  <a class="page-scroll" href="#contact">Contact</a>
+                  <a class="page-scroll" href="#contact">Bog'lanish</a>
                 </li>
               </ul>
             </div>
@@ -64,10 +64,10 @@
       <div class="sidebar-menu">
         <h5 class="menu-title">Quick Links</h5>
         <ul>
-          <li><a href="javascript:void(0)">About Us</a></li>
-          <li><a href="javascript:void(0)">Our Team</a></li>
-          <li><a href="javascript:void(0)">Latest News</a></li>
-          <li><a href="javascript:void(0)">Contact Us</a></li>
+          <li><a href="javascript:void(0)">Biz haqimizda</a></li>
+          <li><a href="javascript:void(0)">Bizning jamoa</a></li>
+          <li><a href="javascript:void(0)">So'nggi yangiliklar</a></li>
+          <li><a href="javascript:void(0)">Biz bilan aloqa</a></li>
         </ul>
       </div>
       <!-- menu -->
