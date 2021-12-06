@@ -60,7 +60,7 @@
         <a href="index.html"><img src="assets/images/logo.svg" alt="Logo" /></a>
       </div>
       <p class="text">Lorem ipsum dolor sit amet adipisicing elit. Sapiente fuga nisi rerum iusto intro.</p>
-      <!-- logo -->
+      <!-- logotip -->
       <div class="sidebar-menu">
         <h5 class="menu-title">Quick Links</h5>
         <ul>
